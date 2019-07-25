@@ -6,4 +6,4 @@ regretNet_GPU : pytorch implementation of all networks from D. Parkes' "Optimal 
 
 regret_Net_adversarial : code learning optimal shading for regretNet neural networks
 
-run_expes_gpu : experiments to check reproducibility is achieved
+run_expes_gpu : experiments to check reproducibility is achieved OLD VERSION TO BE UPDATED
